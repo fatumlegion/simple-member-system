@@ -1,0 +1,48 @@
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#cont
+{
+	width: 920px;
+	margin: 0 auto;
+}
+
+#profileArea
+{
+	float: left;
+	width: 220px;
+}
+
+#profileArea a
+{
+	text-decoration: none;
+}
+
+.profileLink
+{
+	color: #000000;
+	text-decoration: none;
+	width: 98%;
+	height: 22px;
+	padding-top: 5px;
+	padding-left: 6px;
+	margin: 0 auto;
+	background-color: #CCCCCC;
+}
+
+.profileLink:hover
+{
+	cursor: pointer;
+	background-color: #EEEEEE;
+}
+
+#contentArea
+{
+	position: relative;
+	width: 700px;
+	float: left;
+	left:15px;
+	font-size: 11pt;
+}

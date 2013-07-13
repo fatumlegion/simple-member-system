@@ -1,0 +1,20 @@
+Options +FollowSymLinks
+Options -Indexes
+
+RewriteEngine On
+
+RewriteRule ^profiles/(.*)/?$	/index.php?page=profiles&id=$1 [QSA,L]
+
+RewriteRule ^editprofile/?$		/index.php?page=editprofile [L]
+RewriteRule	^register/?$		/index.php?page=register [L]
+RewriteRule ^logout/?$			/index.php?page=logout [L]
+RewriteRule ^forgot/?$			/index.php?page=forgot [L]
+
+ErrorDocument 403				/index.php?page=404
+ErrorDocument 404				/index.php?page=404
+
+RewriteRule ^frm/(.*).php/?$ [E]
+RewriteRule ^handle/(.*).php/?$ [E]
+RewriteRule ^lib/(.*).php/?$ [E]
+RewriteRule ^pages/(.*).php/?$ [E]
+RewriteRule ^skeleton/(.*).php/?$ [E]

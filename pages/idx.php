@@ -1,0 +1,6 @@
+<?php
+$this->set_page_title("Baka Studios - Main Page");
+?>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu ligula, rhoncus vitae augue vitae, vulputate laoreet justo. Proin sit amet magna blandit, condimentum quam ut, semper quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae nisl velit. In fringilla nisi sit amet metus gravida laoreet. Ut vel est at diam posuere imperdiet. Vestibulum gravida massa ac sagittis lacinia. Mauris eleifend pulvinar eros, a tincidunt erat euismod sed.<br/><br/>
+
+Nam aliquam magna quis velit dapibus, a aliquet massa egestas. Praesent sem ante, laoreet vitae libero sit amet, congue blandit nisi. Aenean ut lacus non nulla lacinia ultricies. Pellentesque porttitor venenatis laoreet. Donec ornare mi lorem, sed congue eros lobortis quis. Praesent in semper felis, nec molestie tortor. Vestibulum at pellentesque leo, et vehicula nibh. Cras auctor sapien eu quam lacinia molestie vel ut felis. Mauris pharetra arcu velit. In sed facilisis est. Maecenas vestibulum convallis orci et consectetur. Morbi et enim mollis, ultricies lectus a, pharetra lacus. Maecenas cursus dignissim metus in congue. In in magna tortor. Donec vitae convallis ligula, vitae hendrerit eros.
